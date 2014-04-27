@@ -1,3 +1,3 @@
-# Demo App given in Rails tutorial
+# Demo App 
 
 This is my first *Demo App*
